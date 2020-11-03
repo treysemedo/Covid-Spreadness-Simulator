@@ -1,0 +1,16 @@
+DimensaoPopulacao 20
+NumeroDoentes 11
+NumeroSaudaveis 6
+NumeroImunes 3
+Dia 1
+numeroInfetadosDiario 4
+numeroRecuperadosDiario 2
+numeroImunesDiario 0
+Dia 2
+numeroInfetadosDiario 3
+numeroRecuperadosDiario 3
+numeroImunesDiario 1
+Dia 3
+numeroInfetadosDiario 2
+numeroRecuperadosDiario 1
+numeroImunesDiario 0
